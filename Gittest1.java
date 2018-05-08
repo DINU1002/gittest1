@@ -8,6 +8,7 @@ public class Gittest1 {
 		for (int i=1; i<=5;i++)
 		{
 			System.out.println("hellooo "+i);
+			System.out.println("hellooo "+i);
 		}
 
 	}
